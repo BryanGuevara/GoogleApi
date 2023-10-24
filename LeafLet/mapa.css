@@ -1,0 +1,28 @@
+#map{
+    height: 470px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.1);
+}
+.group{
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.3);
+    position: relative;
+    background: rgba(0, 0, 0, 0.3);
+}
+.select{
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+    border: 0;
+    background: rgba(0, 0, 0, 0);
+    color: black;
+}
+.formulario__titulo{
+    text-align: center;
+margin-top: 0;
+color: rgba(0, 0, 0, 0.7);
+}
